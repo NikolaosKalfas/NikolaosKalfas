@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Gatsby
+- 🔭 I’m currently working on building react gatsby websites
 - 🌱 I’m currently learning Shopify Storefront API
 - 👯 I’m looking to collaborate on Shopify Storefront API
 - 🤔 I’m looking for help with Shopify Storefront API
