@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Gatsby
 - 🌱 I’m currently learning Shopify Storefront API
 - 👯 I’m looking to collaborate on Shopify Storefront API
