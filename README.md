@@ -4,7 +4,13 @@
 - 🌱 I’m currently learning Shopify Storefront API
 - 👯 I’m looking to collaborate on Shopify Storefront API
 - 🤔 I’m looking for help with Shopify Storefront API
-- 📫 How to reach me: [My Portfolio](https://www.nikolaoskalfas.com) - [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nikolaoskalfas
+- 📫 How to reach me: [My Portfolio](https://www.nikolaoskalfas.com) - {r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+              
+#### `r fa("crown", fill = "steelblue")` H4 Heading      
+
+
+[`r fa("r-project", fill = "steelblue")`](https://www.rstudio.com)
 )
 - ⚡ Fun fact: I love Magic: The Gathering
 
