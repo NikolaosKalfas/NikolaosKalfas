@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Nikolaos Kalfas](https://res.cloudinary.com/des3wuhhj/image/upload/v1644344481/github_image_g6bist.jpg)](https://www.nikolaoskalfas.com)
 
 - 🔭 I’m currently working on building react gatsby websites
 - 🌱 I’m currently learning Shopify Storefront API
