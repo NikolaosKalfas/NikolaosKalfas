@@ -3,5 +3,5 @@
 - 🔭 I’m currently working on building react gatsby websites
 - 🌱 I’m currently rebuilding my portfolio using Contentful + Gatsby
 - 📫 How to reach me: [My Portfolio](https://www.nikolaoskalfas.com)
-- ⚡ Fun fact: I love Magic: The Gathering
+- ⚡ Fun fact: I playing love Magic: The Gathering
 
